@@ -13,16 +13,17 @@ SQL-Linux OS- Font-end
 
 Fields of Knowledge
 
-C++ C# MySQL Photoshop Adobe XD OpenCV
+C++ C# MySQL Photoshop Adobe XD 
 
 
+
+<!---
+OmarElkady1/OmarElkady1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m @OmarElkady1
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-OmarElkady1/OmarElkady1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
